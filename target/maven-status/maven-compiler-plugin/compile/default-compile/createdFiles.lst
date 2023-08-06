@@ -1,0 +1,5 @@
+com\mycompany\decorator\AutoEstandar.class
+com\mycompany\decorator\AutomovilElectricoFeature.class
+com\mycompany\decorator\Automovil.class
+com\mycompany\decorator\AutomovilDecorador.class
+com\mycompany\decorator\main.class
